@@ -11,3 +11,9 @@ An Alfred workflow for adding a dramatic effect by playing the X-Files theme.
 
 - macOS Catalina and above  
 - [X-Files theme song](https://music.apple.com/ru/album/the-x-files-theme/497188575?i=497188576&l=en) added to the Music library
+
+## Usage
+
+- Type ```xfiles``` to start playing
+
+- Type ```xfiles``` again to stop playing
